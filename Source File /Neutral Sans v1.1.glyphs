@@ -42859,55 +42859,70 @@ unicode = 59;
 },
 {
 glyphname = ellipsis;
-lastChange = "2024-11-11 05:29:30 +0000";
+lastChange = "2026-11-13 15:02:28 +0000";
 layers = (
 {
 layerId = "B488E573-8266-4BCD-B737-DF94C33055A8";
 shapes = (
 {
+alignment = -1;
+pos = (0,0);
 ref = period;
 },
 {
+alignment = -1;
+pos = (184,0);
 ref = period;
 },
 {
+alignment = -1;
+pos = (368,0);
 ref = period;
 }
 );
-width = 184;
+width = 552;
 },
 {
 layerId = m002;
 shapes = (
 {
+alignment = -1;
+pos = (0,0);
 ref = period;
 },
 {
+alignment = -1;
+pos = (224,0);
 ref = period;
 },
 {
+alignment = -1;
+pos = (448,0);
 ref = period;
 }
 );
-width = 184;
+width = 672;
 },
 {
 layerId = "13EFD44C-DB52-45E6-98DA-FD82570DD876";
 shapes = (
 {
 alignment = -1;
+pos = (0,0);
 ref = period;
 },
 {
 alignment = -1;
+pos = (251,0);
 ref = period;
 },
 {
 alignment = -1;
+pos = (502,0);
 ref = period;
 }
 );
-width = 184;
+width = 753;
 }
 );
 unicode = 8230;
